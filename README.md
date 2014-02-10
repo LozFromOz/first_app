@@ -5,5 +5,5 @@ This is the first application for the
 by [Michael Hartl](http://michaelhartl.com/).
 
 
-the weather is terrible
+The weather is terrible
 
